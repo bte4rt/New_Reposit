@@ -1,0 +1,2 @@
+Velocity=10 m/s;
+Acceleration= 2 m/s2;
