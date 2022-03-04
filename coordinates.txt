@@ -1,1 +1,2 @@
 Targert in space: over center H(10.25;2.14;22.01);
+*this are the coordinates of a target in the space.*
