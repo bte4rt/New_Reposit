@@ -6,4 +6,5 @@ M=52 N.m;
 =======
 c=300000 km/s; \\ speed of light.
 >>>>>>> c9114c7fcc234d8eeeb61cf9eacad3fd94757d4e
+<<<<<<< HEAD
 The friction has the following value: Fr=10N;
