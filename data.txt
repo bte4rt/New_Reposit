@@ -1,11 +1,7 @@
 Velocity=10 m/s;
 Acceleration= 2 m/s2;
 distance=100 m;
-<<<<<<< HEAD
 M=52 N.m;
-=======
 c=300000 km/s; \\ speed of light.
->>>>>>> c9114c7fcc234d8eeeb61cf9eacad3fd94757d4e
-<<<<<<< HEAD
 The friction has the following value: Fr=10N;
 the earth acceleration has the value: g=9.81 m/s2;
