@@ -1,3 +1,4 @@
 Velocity=10 m/s;
 Acceleration= 2 m/s2;
 distance=100 m;
+M=52 N.m;
