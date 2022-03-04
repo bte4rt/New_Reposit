@@ -5,3 +5,4 @@ M=52 N.m;
 c=300000 km/s; \\ speed of light.
 The friction has the following value: Fr=10N;
 the earth acceleration has the value: g=9.81 m/s2;
+//end of file.
